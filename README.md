@@ -108,4 +108,4 @@ Call your Twilio phone number. You should hear the welcome greeting and be able 
 Want to learn more about building this application? Check out these helpful tutorials:
 - *[Integrate ElevenLabs Voices with Twilio's ConversationRelay](https://www.twilio.com/en-us/blog/integrate-elevenlabs-voices-with-twilios-conversationrelay)*
 - *[Set Up a Native Integration with Conversational Intelligence and ConversationRelay using Node.js](https://www.twilio.com/en-us/blog/native-integration-conversational-intelligence-conversationrelay-node)*
- -*[Integrate OpenAI with Twilio Voice Using ConversationRelay](https://www.twilio.com/en-us/blog/developers/tutorials/product/integrate-openai-twilio-voice-using-conversationrelay)*
+- *[Integrate OpenAI with Twilio Voice Using ConversationRelay](https://www.twilio.com/en-us/blog/developers/tutorials/product/integrate-openai-twilio-voice-using-conversationrelay)*
